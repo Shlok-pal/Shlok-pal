@@ -27,8 +27,8 @@
 ---
 
 ## 🌍 Find me around the web
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/farisedp/](https://www.linkedin.com/in/shlok-pal/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/shlok-pal/](https://www.linkedin.com/in/shlok-pal/))
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shlokpal713/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white)]([https://rissss21.github.io/portofolio/](https://github.com/Shlok-pal/portfolio))
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white)]([https://github.com/Shlok-pal/portfolio/](https://github.com/Shlok-pal/portfolio))
 
 
